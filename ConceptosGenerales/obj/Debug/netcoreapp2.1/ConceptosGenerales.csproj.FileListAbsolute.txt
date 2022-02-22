@@ -1,0 +1,11 @@
+C:\Users\Carlos Cuéllar\source\repos\ConceptosGenerales\ConceptosGenerales\bin\Debug\netcoreapp2.1\ConceptosGenerales.deps.json
+C:\Users\Carlos Cuéllar\source\repos\ConceptosGenerales\ConceptosGenerales\bin\Debug\netcoreapp2.1\ConceptosGenerales.runtimeconfig.json
+C:\Users\Carlos Cuéllar\source\repos\ConceptosGenerales\ConceptosGenerales\bin\Debug\netcoreapp2.1\ConceptosGenerales.runtimeconfig.dev.json
+C:\Users\Carlos Cuéllar\source\repos\ConceptosGenerales\ConceptosGenerales\bin\Debug\netcoreapp2.1\ConceptosGenerales.dll
+C:\Users\Carlos Cuéllar\source\repos\ConceptosGenerales\ConceptosGenerales\bin\Debug\netcoreapp2.1\ConceptosGenerales.pdb
+C:\Users\Carlos Cuéllar\source\repos\ConceptosGenerales\ConceptosGenerales\obj\Debug\netcoreapp2.1\ConceptosGenerales.csprojAssemblyReference.cache
+C:\Users\Carlos Cuéllar\source\repos\ConceptosGenerales\ConceptosGenerales\obj\Debug\netcoreapp2.1\ConceptosGenerales.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Cuéllar\source\repos\ConceptosGenerales\ConceptosGenerales\obj\Debug\netcoreapp2.1\ConceptosGenerales.AssemblyInfoInputs.cache
+C:\Users\Carlos Cuéllar\source\repos\ConceptosGenerales\ConceptosGenerales\obj\Debug\netcoreapp2.1\ConceptosGenerales.AssemblyInfo.cs
+C:\Users\Carlos Cuéllar\source\repos\ConceptosGenerales\ConceptosGenerales\obj\Debug\netcoreapp2.1\ConceptosGenerales.dll
+C:\Users\Carlos Cuéllar\source\repos\ConceptosGenerales\ConceptosGenerales\obj\Debug\netcoreapp2.1\ConceptosGenerales.pdb
